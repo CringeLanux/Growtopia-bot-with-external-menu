@@ -1,6 +1,9 @@
-# GTBot-base
-Basic C-Sharp growtopia bot base
+# Growtopia-bot-with-external-menu
 
-You need native enet lib to get this work i have included 1 in lib folder you can use it or your own.
+Credits to: https://github.com/byte-0x74/ for bot system and ImGui menu.
 
-Build as x64 and move the enet.dll from libs folder to the build output folder.
+#This is dicontinued cause of Laggy menu. I didnt have motivation to try to fix it.
+
+
+
+
